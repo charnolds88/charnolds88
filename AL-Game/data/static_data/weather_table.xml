@@ -118,6 +118,16 @@
         <table zone_id="1" rank="1" code="2" name="RAIN2" before="true"/>
         <table zone_id="1" rank="1" code="3" name="RAIN2" after="true"/>
     </map>
+	<map id="600050000" zone_count="2" weather_count="6">
+        <table zone_id="1" rank="2" code="1" name="RAIN"/>
+        <table zone_id="1" rank="1" code="2" name="RAIN" before="true"/>
+        <table zone_id="1" rank="1" code="3" name="RAIN" after="true"/>
+        <table zone_id="2" rank="2" code="6" name="SNOW"/>
+        <table zone_id="2" rank="1" code="4" name="SNOW" before="true"/>
+        <table zone_id="2" rank="0" code="4" name="SNOW" after="true"/>
+        <table zone_id="2" rank="1" code="5" name="SNOW" before="true"/>
+        <table zone_id="2" rank="0" code="5" name="SNOW" after="true"/>
+    </map>
     <map id="700010000" zone_count="2" weather_count="10">
         <table zone_id="2" rank="2" code="1" name="RAIN"/>
         <table zone_id="2" rank="1" code="2" name="RAIN" before="true"/>

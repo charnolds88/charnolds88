@@ -396,4 +396,8 @@
     <teleloc_template loc_id="540" mapid="210100000" name="109th Garrison - The Hand of Bitter Battle" name_id="405274" posX="2320.291" posY="689.236" posZ="237.92978" heading="0"/>
     <teleloc_template loc_id="541" mapid="210100000" name="110th Garrison - Battlefield Encouragement" name_id="405275" posX="312.98578" posY="562.925" posZ="278.0387" heading="10"/>
     <teleloc_template loc_id="542" mapid="210100000" name="111th Garrison - The Hand of Bitter Battle" name_id="405276" posX="857.2923" posY="2457.7627" posZ="356.375" heading="20"/>
+	
+	<teleloc_template loc_id="226" mapid="600050000" name="Crumbling Redoubt" name_id="403592" posX="1748.4063" posY="2324.8262" posZ="175.7225" heading="60"/>
+	<teleloc_template loc_id="380" mapid="600050000" name="Beritran Foothold (Base Elyos)" name_id="404433" posX="969.33" posY="387.88" posZ="187.2" heading="60"/>
+    <teleloc_template loc_id="381" mapid="600050000" name="Primeval Ruin (Base Elyos)" name_id="404434" posX="971.2" posY="2785.9" posZ="205.3" heading="0"/>
 </teleport_location>

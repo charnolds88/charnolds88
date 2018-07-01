@@ -1853,4 +1853,12 @@
             <telelocation loc_id="541" price="11357" pricePvp="11357" type="REGULAR" />
         </locations>
     </teleporter_template>
+	<!-- 4.7 Katalam -->
+	<teleporter_template npc_ids="730830" teleportId="951">
+        <locations>
+            <telelocation loc_id="226" price="14200" pricePvp="14200" type="REGULAR"/>
+            <telelocation loc_id="380" price="25767" pricePvp="25767" type="REGULAR"/>
+            <telelocation loc_id="381" price="5962" pricePvp="5962" type="REGULAR"/>
+        </locations>
+    </teleporter_template>
 </npc_teleporter>

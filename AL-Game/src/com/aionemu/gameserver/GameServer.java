@@ -437,13 +437,13 @@ public class GameServer {
 		System.out.println("");
 		log.info("[GameServer] GameServer started in " + (System.currentTimeMillis() - start) / 1000 + " seconds.");
 
-		Util.printSection(" ### Credits ### ");
+		/**Util.printSection(" ### Credits ### ");
 		try {
 			ZCXInfo.getInfo();
 		}
 		catch (IOException e) {
 			e.printStackTrace();
-		}
+		}*/
 
 		gs.startServers();
 		Runtime.getRuntime().addShutdownHook(ShutdownHook.getInstance());
