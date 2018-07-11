@@ -92,6 +92,12 @@
     <bind_point name="Rhonnam Refugee Village" npcid="730239" price="28212"/>
     <bind_point name="Subterranea Obsvervation Post" npcid="730283" price="41297"/>
     <bind_point name="Vorgaltem Scout Post" npcid="730284" price="9500"/>
+	<!-- Katalam -->
+    <bind_point name="Katalam Elyos" npcid="730844" price="66855"/>
+    <bind_point name="Katalam Asmo" npcid="730845" price="66855"/>
+    <!-- Danaria -->
+    <bind_point name="Danaria Elyos" npcid="730846" price="66855"/>
+    <bind_point name="Danaria Asmo" npcid="730847" price="66855"/>
     <!-- Vengar -->
     <bind_point name="DF5_OP1_Binding_stone_D" npcid="804757" price="200"/>
     <bind_point name="DF5_OP2_Binding_stone_D" npcid="804763" price="200"/>

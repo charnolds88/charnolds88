@@ -1558,10 +1558,10 @@
 		<spawn npc_id="830767" respawn_time="295">
 			<spot x="1422.0016" y="1370.7097" z="208.08516" h="60"/>
 		</spawn>
-		<!-- Fedo ||| DC1_D_tshirt_seller01 -->
+		<!-- Fedo ||| DC1_D_tshirt_seller01 
 		<spawn npc_id="832827" respawn_time="295">
 			<spot x="1412.849" y="1439.3125" z="208.10016" h="90"/>
-		</spawn>
+		</spawn>-->
 		<!-- Legia ||| DC1_D_expextraction_seller01 -->
 		<spawn npc_id="832842" respawn_time="295">
 			<spot x="1395.7864" y="1434.2131" z="208.08516" h="0"/>

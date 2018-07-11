@@ -1435,10 +1435,10 @@
 		<spawn npc_id="806555" respawn_time="295">
 			<spot x="1821.4268" y="1670.3867" z="577.9344" h="15"/>
 		</spawn>
-		<!-- Fenna ||| LC1_L_tshirt_seller01 -->
+		<!-- Fenna ||| LC1_L_tshirt_seller01 
 		<spawn npc_id="832826" respawn_time="295">
 			<spot x="1617.0287" y="1553.0337" z="573.34503" h="60"/>
-		</spawn>
+		</spawn>-->
 		<!-- Neperon ||| LC1_L_expextraction_seller01 -->
 		<spawn npc_id="832843" respawn_time="295">
 			<spot x="1620.0466" y="1521.4489" z="573.62933" h="60"/>
